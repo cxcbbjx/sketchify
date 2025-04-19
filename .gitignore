@@ -1,0 +1,14 @@
+# Node / React
+node_modules/
+build/
+.env*
+
+# Python / Flask
+__pycache__/
+*.pyc
+uploads/
+sketches/
+server/Im2Pencil/models/   # if you want to keep model files out of Git
+
+# System
+.DS_Store

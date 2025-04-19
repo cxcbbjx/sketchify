@@ -1,0 +1,11 @@
+fastapi==0.115.12
+uvicorn==0.34.1
+python-multipart==0.0.20
+opencv-python==4.11.0.86
+numpy==1.26.1
+flask-cors==5.0.1
+# …and whatever else your app imports…
+torch                # PyTorch
+diffusers            # Hugging Face diffusers
+transformers         # tokenizers & model support
+accelerate           # for faster inference
