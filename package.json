@@ -1,8 +1,20 @@
 {
-<<<<<<< HEAD
   "name": "my-react-app",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cxcbbjx/sketchify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cxcbbjx/sketchify/issues"
+  },
+  "homepage": "https://github.com/cxcbbjx/sketchify#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.4",
     "@testing-library/dom": "^10.4.0",
@@ -15,6 +27,11 @@
     "react-scripts": "^3.0.1",
     "react-toastify": "^11.0.5",
     "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -39,30 +56,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.3",
-    "tailwindcss": "^4.1.4"
   }
-=======
-  "name": "ai-ghibli",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cxcbbjx/ai-pencil-sketch.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cxcbbjx/ai-pencil-sketch/issues"
-  },
-  "homepage": "https://github.com/cxcbbjx/ai-pencil-sketch#readme",
-  "description": ""
->>>>>>> 92330e10cc2be9b5ad0fe6c79b89d38c712db88b
 }
