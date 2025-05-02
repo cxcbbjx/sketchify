@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -21,3 +22,19 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+=======
+# Node / React
+node_modules/
+build/
+.env*
+
+# Python / Flask
+__pycache__/
+*.pyc
+uploads/
+sketches/
+server/Im2Pencil/models/   # if you want to keep model files out of Git
+
+# System
+.DS_Store
+>>>>>>> 92330e10cc2be9b5ad0fe6c79b89d38c712db88b

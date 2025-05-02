@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
@@ -44,4 +45,24 @@
     "postcss": "^8.5.3",
     "tailwindcss": "^4.1.4"
   }
+=======
+  "name": "ai-ghibli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cxcbbjx/ai-pencil-sketch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cxcbbjx/ai-pencil-sketch/issues"
+  },
+  "homepage": "https://github.com/cxcbbjx/ai-pencil-sketch#readme",
+  "description": ""
+>>>>>>> 92330e10cc2be9b5ad0fe6c79b89d38c712db88b
 }
